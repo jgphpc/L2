@@ -1,0 +1,8 @@
+*~
+src/.mod/*.mod
+src/.obj/*.o
+*.exe
+*.post.res
+*.depend
+*.asc
+*.dat

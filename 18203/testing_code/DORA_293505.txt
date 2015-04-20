@@ -1,0 +1,159 @@
+ ****** START OF JOB ******
+Mon Apr 20 17:23:49 CEST 2015
+ np= 12  rank= 9  up= 10  down= 8
+ np= 12  rank= 7  up= 8  down= 6
+ np= 12  rank= 8  up= 9  down= 7
+ np= 12  rank= 6  up= 7  down= 5
+ np= 12  rank= 10  up= 11  down= 9
+ np= 12  rank= 5  up= 6  down= 4
+ np= 12  rank= 1  up= 2  down= 0
+ np= 12  rank= 4  up= 5  down= 3
+ np= 12  rank= 3  up= 4  down= 2
+ np= 12  rank= 11  up= -1  down= 10
+ np= 12  rank= 2  up= 3  down= 1
+ np= 12  rank= 0  up= 1  down= -1
+ 0  TOTAL LOOP TIME = 22.308509111404419
+ 11  TOTAL LOOP TIME = 22.309435129165649
+ 10  TOTAL LOOP TIME = 22.309544086456299
+ 2  TOTAL LOOP TIME = 22.308856964111328
+ 1  TOTAL LOOP TIME = 22.309297800064087
+ 8  TOTAL LOOP TIME = 22.31005597114563
+ 9  TOTAL LOOP TIME = 22.309942007064819
+ 3  TOTAL LOOP TIME = 22.309831857681274
+ 4  TOTAL LOOP TIME = 22.31000804901123
+ 7  TOTAL LOOP TIME = 22.310346126556396
+ 5  TOTAL LOOP TIME = 22.310298919677734
+ 6  TOTAL LOOP TIME = 22.310734033584595
+Application 1033708 resources: utime ~266s, stime ~3s, Rss ~40640, inblocks ~8376, outblocks ~17284
+Mon Apr 20 17:24:15 CEST 2015
+ ****** END OF JOB ****** 
+ ****** START OF JOB ******
+Mon Apr 20 17:24:15 CEST 2015
+ np= 12  rank= 6  up= 7  down= 5
+ np= 12  rank= 8  up= 9  down= 7
+ np= 12  rank= 9  up= 10  down= 8
+ np= 12  rank= 11  up= -1  down= 10
+ np= 12  rank= 5  up= 6  down= 4
+ np= 12  rank= 10  up= 11  down= 9
+ np= 12  rank= 1  up= 2  down= 0
+ np= 12  rank= 7  up= 8  down= 6
+ np= 12  rank= 0  up= 1  down= -1
+ np= 12  rank= 4  up= 5  down= 3
+ np= 12  rank= 2  up= 3  down= 1
+ np= 12  rank= 3  up= 4  down= 2
+ 11  TOTAL LOOP TIME = 28.09629487991333
+ 0  TOTAL LOOP TIME = 28.087447881698608
+ 9  TOTAL LOOP TIME = 28.096756935119629
+ 10  TOTAL LOOP TIME = 28.093143939971924
+ 1  TOTAL LOOP TIME = 28.094034910202026
+ 8  TOTAL LOOP TIME = 28.097300052642822
+ 7  TOTAL LOOP TIME = 28.094160079956055
+ 6  TOTAL LOOP TIME = 28.097395896911621
+ 2  TOTAL LOOP TIME = 28.090209007263184
+ 5  TOTAL LOOP TIME = 28.094589948654175
+ 3  TOTAL LOOP TIME = 28.090662002563477
+ 4  TOTAL LOOP TIME = 28.088658094406128
+Application 1033709 resources: utime ~333s, stime ~4s, Rss ~40640, inblocks ~8376, outblocks ~17284
+Mon Apr 20 17:24:48 CEST 2015
+ ****** END OF JOB ****** 
+ ****** START OF JOB ******
+Mon Apr 20 17:24:48 CEST 2015
+ np= 12  rank= 0  up= 1  down= -1
+ np= 12  rank= 7  up= 8  down= 6
+ np= 12  rank= 10  up= 11  down= 9
+ np= 12  rank= 5  up= 6  down= 4
+ np= 12  rank= 2  up= 3  down= 1
+ np= 12  rank= 9  up= 10  down= 8
+ np= 12  rank= 11  up= -1  down= 10
+ np= 12  rank= 8  up= 9  down= 7
+ np= 12  rank= 6  up= 7  down= 5
+ np= 12  rank= 1  up= 2  down= 0
+ np= 12  rank= 3  up= 4  down= 2
+ np= 12  rank= 4  up= 5  down= 3
+ 11  TOTAL LOOP TIME = 23.41683292388916
+ 10  TOTAL LOOP TIME = 23.417326927185059
+ 9  TOTAL LOOP TIME = 23.417490005493164
+ 8  TOTAL LOOP TIME = 23.417322874069214
+ 7  TOTAL LOOP TIME = 23.418776035308838
+ 6  TOTAL LOOP TIME = 23.41925311088562
+ 4  TOTAL LOOP TIME = 23.418584108352661
+ 5  TOTAL LOOP TIME = 23.418294906616211
+ 0  TOTAL LOOP TIME = 23.419725894927979
+ 3  TOTAL LOOP TIME = 23.416706085205078
+ 1  TOTAL LOOP TIME = 23.416870832443237
+ 2  TOTAL LOOP TIME = 23.419113874435425
+Application 1033711 resources: utime ~278s, stime ~4s, Rss ~40640, inblocks ~8376, outblocks ~17284
+Mon Apr 20 17:25:15 CEST 2015
+ ****** END OF JOB ****** 
+ ****** START OF JOB ******
+Mon Apr 20 17:25:15 CEST 2015
+ np= 12  rank= 7  up= 8  down= 6
+ np= 12  rank= 3  up= 4  down= 2
+ np= 12  rank= 2  up= 3  down= 1
+ np= 12  rank= 9  up= 10  down= 8
+ np= 12  rank= 5  up= 6  down= 4
+ np= 12  rank= 11  up= -1  down= 10
+ np= 12  rank= 6  up= 7  down= 5
+ np= 12  rank= 10  up= 11  down= 9
+ np= 12  rank= 4  up= 5  down= 3
+ np= 12  rank= 8  up= 9  down= 7
+ np= 12  rank= 1  up= 2  down= 0
+ np= 12  rank= 0  up= 1  down= -1
+ 0  TOTAL LOOP TIME = 28.19100284576416
+ 1  TOTAL LOOP TIME = 28.191606998443604
+ 2  TOTAL LOOP TIME = 28.198173999786377
+ 3  TOTAL LOOP TIME = 28.198492050170898
+ 4  TOTAL LOOP TIME = 28.198167085647583
+ 11  TOTAL LOOP TIME = 28.19777512550354
+ 10  TOTAL LOOP TIME = 28.198904991149902
+ 5  TOTAL LOOP TIME = 28.192664861679077
+ 9  TOTAL LOOP TIME = 28.199465990066528
+ 6  TOTAL LOOP TIME = 28.198238134384155
+ 7  TOTAL LOOP TIME = 28.199882030487061
+ 8  TOTAL LOOP TIME = 28.193597078323364
+Application 1033713 resources: utime ~335s, stime ~4s, Rss ~40640, inblocks ~8376, outblocks ~17284
+Mon Apr 20 17:25:47 CEST 2015
+ ****** END OF JOB ****** 
+ ****** START OF JOB ******
+Mon Apr 20 17:25:47 CEST 2015
+ np= 12  rank= 0  up= 1  down= -1
+ np= 12  rank= 11  up= -1  down= 10
+ np= 12  rank= 8  up= 9  down= 7
+ np= 12  rank= 5  up= 6  down= 4
+ np= 12  rank= 6  up= 7  down= 5
+ np= 12  rank= 4  up= 5  down= 3
+ np= 12  rank= 1  up= 2  down= 0
+ np= 12  rank= 7  up= 8  down= 6
+ np= 12  rank= 10  up= 11  down= 9
+ np= 12  rank= 3  up= 4  down= 2
+ np= 12  rank= 2  up= 3  down= 1
+ np= 12  rank= 9  up= 10  down= 8
+ 11  TOTAL LOOP TIME = 25.036994934082031
+ 10  TOTAL LOOP TIME = 25.032872915267944
+ 0  TOTAL LOOP TIME = 25.038318872451782
+ 9  TOTAL LOOP TIME = 25.033560037612915
+ 8  TOTAL LOOP TIME = 25.038594961166382
+ 7  TOTAL LOOP TIME = 25.036068201065063
+ 1  TOTAL LOOP TIME = 25.036313056945801
+ 2  TOTAL LOOP TIME = 25.033550024032593
+ 3  TOTAL LOOP TIME = 25.033407926559448
+ 6  TOTAL LOOP TIME = 25.038068056106567
+ 4  TOTAL LOOP TIME = 25.038516998291016
+ 5  TOTAL LOOP TIME = 25.039464950561523
+Application 1033714 resources: utime ~297s, stime ~4s, Rss ~40640, inblocks ~8376, outblocks ~17284
+Mon Apr 20 17:26:15 CEST 2015
+ ****** END OF JOB ****** 
+ ****** START OF JOB ******
+Mon Apr 20 17:26:15 CEST 2015
+ np= 12  rank= 9  up= 10  down= 8
+ np= 12  rank= 11  up= -1  down= 10
+ np= 12  rank= 0  up= 1  down= -1
+ np= 12  rank= 8  up= 9  down= 7
+ np= 12  rank= 6  up= 7  down= 5
+ np= 12  rank= 7  up= 8  down= 6
+ np= 12  rank= 10  up= 11  down= 9
+ np= 12  rank= 3  up= 4  down= 2
+ np= 12  rank= 4  up= 5  down= 3
+ np= 12  rank= 2  up= 3  down= 1
+ np= 12  rank= 1  up= 2  down= 0
+ np= 12  rank= 5  up= 6  down= 4

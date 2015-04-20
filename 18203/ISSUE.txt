@@ -1,0 +1,1 @@
+By executing the program in the folder testing_code one can see a variability on MPI execution time from 22s to 28s. The program is rather simple, such variability is not expected.
